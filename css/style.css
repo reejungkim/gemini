@@ -1,0 +1,17 @@
+/* Custom Styles */
+body {
+    font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
+}
+
+.hero-section {
+    background-color: #f8f9fa;
+    padding: 4rem 2rem;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.footer {
+    background-color: #f8f9fa;
+}
